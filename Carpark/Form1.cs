@@ -16,8 +16,6 @@ namespace Carpark
         private CarSection carSection = new CarSection();
         DataTable Dt = new DataTable();
         Vehicle vehicle = new Vehicle();
-        
-
         public Form1()
         {
             InitializeComponent();
