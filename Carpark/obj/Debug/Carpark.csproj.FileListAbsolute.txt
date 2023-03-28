@@ -1,0 +1,12 @@
+D:\s code\Carpark\Carpark\bin\Debug\Carpark.exe.config
+D:\s code\Carpark\Carpark\bin\Debug\Carpark.exe
+D:\s code\Carpark\Carpark\bin\Debug\Carpark.pdb
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.csproj.AssemblyReference.cache
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.csproj.SuggestedBindingRedirects.cache
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.Form1.resources
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.Properties.Resources.resources
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.csproj.GenerateResource.cache
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.csproj.CoreCompileInputs.cache
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.exe
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.pdb
+D:\s code\Carpark\Carpark\obj\Debug\Carpark.CarSection.resources
