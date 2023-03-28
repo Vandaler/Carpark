@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Carpark
 {
-    public class Vehicle
+    public class Vehicle : Form1
     {
         public List<String> Car = new List<string>
         {

@@ -62,7 +62,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Class\Section.cs" />
-    <Compile Include="Class\Vehicle.cs" />
+    <Compile Include="Class\Vehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <EmbeddedResource Include="CarSection.resx">
       <DependentUpon>CarSection.cs</DependentUpon>
     </EmbeddedResource>
@@ -78,6 +80,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
